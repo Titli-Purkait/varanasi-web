@@ -2,10 +2,6 @@
 
 This project is a digital representation/exploration of the cultural, historical, and spiritual city of Varanasi. It aims to showcase key landmarks, traditions, or data through a web application.
 
-## 🌐 Live Demo
-
-[Click here to view the live project](#) <!-- Add your live link here -->
-
 ## 🚀 Features
 
 - Interactive UI showcasing Varanasi
